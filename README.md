@@ -1,0 +1,2 @@
+# TamasCzari.max
+Mozzilla Focus
